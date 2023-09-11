@@ -1,3 +1,15 @@
-# Contemporary Issues In Data
+# Use of AIs like ChatGPT on Climate Change Research -- How accurate can they be?
+In this document, I present two opposing viewpoints regarding how Artificial Intelligence, such as ChatGPT, provides assistance, especially in gathering important data and building datasets, in dealing with climate change problems. Some believe that such AI langugae models can be valuable and reliable tools for us to help tackle climate change in the future, wheareas others worry about how accurate they could be. 
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+In UC Berkeley's news [ChatGPT accelerates chemistry discovery for climate response, study shows](https://data.berkeley.edu/news/chatgpt-accelerates-chemistry-discovery-climate-response-study-shows), the author, Rachel Leven, presents how ChatGPT faciliates the creation of datasets on complex research about materials that can fight climate change. The materials, called MOFs, include ones that alleviate water scarcity and reduce air pollution. With hundreds of MOFs being reported, ChatGPT extracts useful information and mines the data for the scientists to ease their research.
+
+The document uses a specific example of chemists at UC Berkeley to illustrate the power of ChatGPT in gathering a large amount of data and mining it in a much more efficient way. As a result, ChatGPT was able to conduct literature reviews on over 200 papers related to MOFs, and synthesize MOFs conditions with a 95% accuracy in a fraction of an hour -- which is a process that usually takes a chemist a year to complete. This result demonstrates how AIs can potentially save the planet from climate change in a much faster way and can be a reliable resource for scientists in future studies.
+
+## Article 2
+In the contrary to the advantages of ChatGPT as discussed in Berkeley's newsletter, some experts doubt the accuracy of information ChatGPT delivers. In Climate Foresight's [ChatGPT: climate knowledge – and misinformation – at your fingertips](https://www.climateforesight.eu/interview/chatgpt-climate-knowledge/), the author conducts an "interview" with the ChatGPT bot and asks the bots a series of questions related to climate change. In general, ChatGPT provides simple textual answers to each question, but the author points out the dangers of using bot to acquire answers to such questions --- lacking sources and evaluations of accuracy. 
+
+The bot, just like other search engines such as Google, provides us information it gathers from various databases according to the keywords we typed in. Yet, when providing answers, ChatGPT does not specify where and who it "quotes" from and whether the information comes from reliable and accurate sources. 
+
+## Conclusion
+Looking back at how chemists use ChatGPT to go over papers related to MOFs, it is reasonable for some people to doubt whether AIs like ChatGPT can provide accurate information, including the one related to climate change.Yet, even though we may need to find a way to evaluate how accurate the AIs are, I believe AIs like ChatGPT will be valuable assitants to scientists and researchers in tackling climate change and other contemporary problems we are facing by processing lots of data and going over various databases. In conclusion, I believe it is worth investing in developing AIs for detections of more accurate and reliable sources, data gathering and database building. 
